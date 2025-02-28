@@ -10,7 +10,8 @@
 - [Data Analysis](#Questions-Answered-in-Data-Analysis-Process-in-MySQL-Workbench)
 - [Visualization in Power BI](#Visualization-in-Power-BI)
 - [Findings](#Findings-from-the-Analysis)
-- [Limitations](#Limitations)
+- [Recommendations](#Recommendation)
+- [Limitations](#Recommendation)
 
 ### Project Overview
 
@@ -79,4 +80,15 @@ This primary dataset utilised for this analysis is sourced from "project1_sql_ad
 18. department, engagement: management department has highest engagement score near 100 % while rest are below 2-18 %
 19. absenteeism analysis:  female have higher employee engagement score than males
 20. position : It support head  poition has high engagement score.
+
+### Recommendations
+
+1. Organisation can give some fixed bonus or improve their promotion policies such that employees don't leave in initial years.
+2. organisation can maintain work life balance.
+3. organisation needs to appreciate their employees such that they don't leave despite doing their quality work.
+4. organisation needs to keep some policies for benefit of aged employees.
+
+### Limitations
+
+During the data analysis, there are large number of interns present in 0-5 years experience bracket which are not much included in ananlysis.
 
